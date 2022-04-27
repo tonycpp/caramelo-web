@@ -193,6 +193,34 @@ header{
     
 }
 
+#titulo-contacto{
+    margin: 0;
+    padding: 0;
+}
+
+#contacto-section{
+    padding: 0 50px;
+    background-color: rgb(119, 160, 119);
+}
+
+#contacto{
+    font-size: 100px;
+}
+
+#contact-form{
+    margin: 0;
+    padding: 0;
+}
+
+input {
+    height: 60px;
+    width: 500px;
+}
+
+#button-submit{
+    height: 40px;
+    width: 250px;
+}
 
 
 /*  responsive tablet y mobile  */
