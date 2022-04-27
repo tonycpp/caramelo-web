@@ -1,4 +1,15 @@
-/* reset del html */
+/*
+colores:
+gris - rgba(77, 77, 92, 0.6);
+negro - 
+verde - rgb(119, 160, 119);
+#30343D
+
+
+
+
+
+ reset del html */
 
 @font-face {
     src: url(../font/Cosmos-Logic-Demo-Version.ttf);
@@ -14,6 +25,10 @@
     margin: 0;
     padding: 0;
     font-family: Cosmo;
+}
+
+p{
+    font-size: 60px;
 }
 
 
@@ -162,7 +177,21 @@ header{
     background-position: center center;
 }
 
+#proyectos-section{
+    padding: 0 50px;
+    color: white;
+    background-color:#30343D;
+}
 
+#proyectos {
+    padding: 50px 0px 30px;
+    font-size: 100px;
+}
+
+#titulo-proyecto{
+    height: 70%;
+    
+}
 
 
 
